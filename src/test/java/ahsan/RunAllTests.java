@@ -7,7 +7,7 @@ import org.testng.TestNG;
 import com.teksystems.sdet.restapi.ApiTest;
 import com.teksystems.sdet.userInput.UserInput;
 
-public class ApiTests {
+public class RunAllTests {
 
 	public static void main(String[] args) {
 		
